@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas
 
-# tadas
-
 st.title("Company Website")
 st.write("Here is the description of the company. Blah blah blah")
 
